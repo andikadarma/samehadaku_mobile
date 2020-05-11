@@ -1,0 +1,2 @@
+rootProject.name='Samehadaku Mobile'
+include ':app'
